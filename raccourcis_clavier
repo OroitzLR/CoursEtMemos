@@ -1,0 +1,24 @@
+Windows
+  Copier : ctrl + c
+  Couper : ctrl + x
+  Coller : ctrl + v
+
+
+Bash
+  whoami : Affiche l'utilisateur
+  pwd : Affiche le chemin du dossier actuel
+  ls : Affiche les dossiers et fichiers dans le chemin actuel
+  cd
+  mkdir
+  touch
+  cat
+
+VisualStudioCode
+  Mise en forme : 
+  Commentaire block :
+  Commentaire ligne :
+  Modifier plusieures lignes simultanées : alt + la/les ligne(s) souhaitée(s)
+  Selectionner vers le haut : ctrl + shift + flèche du haut
+  Selectionner vers le bas : ctrl + shift + flèche du bas
+    *Idem pour gauche et droite
+  
