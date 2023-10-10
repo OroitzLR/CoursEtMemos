@@ -3,6 +3,9 @@ Windows
   Couper : ctrl + x
   Coller : ctrl + v
 
+  écran scindé : windows + les flèches
+  changer la langue du clavier : windows et espace
+
 
 Bash
   whoami : Affiche l'utilisateur
@@ -14,11 +17,13 @@ Bash
   cat
 
 VisualStudioCode
-  Mise en forme : 
+  Déplacement rapide : ctrl + flèches directionnelles
+  Mise en forme : alt + shift + f
   Commentaire block :
-  Commentaire ligne :
-  Modifier plusieures lignes simultanées : alt + la/les ligne(s) souhaitée(s)
-  Selectionner vers le haut : ctrl + shift + flèche du haut
-  Selectionner vers le bas : ctrl + shift + flèche du bas
+  Commentaire ligne : ctrl + /
+  Modifier plusieures lignes simultanées : alt + selectionner la/les ligne(s) souhaitée(s)
+  Selectionner vers le haut : shift + flèche du haut
+  Selectionner vers le bas : shift + flèche du bas
     *Idem pour gauche et droite
+  Deplacer la selection : alt + flèche
   
